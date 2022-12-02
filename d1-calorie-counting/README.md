@@ -1,5 +1,11 @@
 # Day 1: Calorie Counting
 
+🔗 https://adventofcode.com/2022/day/1
+
+🐍 Python3
+
+🛼 `Usage: python3 d1-calorie-counting/main.py`
+
 ## Part 1
 
 Santa's reindeer typically eat regular reindeer food, but they need a lot of magical energy to deliver presents on Christmas. For that, their favorite snack is a special type of star fruit that only grows deep in the jungle. The Elves have brought you on their annual expedition to the grove where the fruit grows.
