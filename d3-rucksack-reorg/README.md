@@ -4,7 +4,7 @@
 
 🐍 Python3
 
-🛼 `Usage: python3 d23-rucksack-reorg/main.py`
+🛼 `Usage: python3 d3-rucksack-reorg/main.py`
 
 
 ## Part 1
